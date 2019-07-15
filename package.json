@@ -13,7 +13,6 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11",
-    "minimatch": "2.0.0"
   },
   "devDependencies": {
     "mocha": "^5.1.1",
